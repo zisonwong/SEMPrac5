@@ -38,4 +38,9 @@ public class Student {
      System.out.println("Hello");
      return;
 }
+    int CountAll(){
+	return 0;
+
+}
+
 }
